@@ -5,7 +5,7 @@
             <input type="text" placeholder="Email" v-model="email">
             <input type="password" placeholder="Password" v-model="password">
             <input type="submit" value="Register">
-            <p>Have an account?<routerLink to="/login">Login Here</routerLink></p>
+            <p>Have an account? <routerLink to="/login">Login Here</routerLink></p>
         </form>
     </div>
 </template>
@@ -42,4 +42,11 @@ export default{
 </script>
 
 <style>
+.Register{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
 </style>

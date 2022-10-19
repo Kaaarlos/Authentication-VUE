@@ -29,7 +29,7 @@ export default{
 <style lang="scss">
 
 body {
-  background: #2c3e50;
+  background: #5D2F5E;
   color: white;
 }
 
@@ -42,5 +42,6 @@ body {
 
 a{
   color: inherit;
+  
 }
 </style>

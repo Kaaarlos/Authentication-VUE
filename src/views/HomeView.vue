@@ -39,3 +39,27 @@ export default{
   }
 }
 </script>
+
+<style>
+.home{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+button{
+  margin: 3%;
+    height: 40px;
+    width: 300px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover{
+  background-color: #934747;
+}
+
+
+</style>
