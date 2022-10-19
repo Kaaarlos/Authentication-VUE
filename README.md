@@ -1,4 +1,5 @@
 # vue-auth
+Carlos Alberto Ceja Zapata
 https://candid-cajeta-778015.netlify.app/
 
 ![image](https://user-images.githubusercontent.com/73798412/196590260-50ca1767-2698-466d-a579-3dc2ff4c1cc2.png)
